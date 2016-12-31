@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+    <frame title="NBA CSEIII" windowUp="12" width="1275" height="760" length="267" 
+    changeButtonX="1069" changeButtonY="18" changeButtonW="135" changeButtonH="88"
+     BasicTextFieldW="260" BasicTextFieldH="27">
+           
+    </frame>
+   
+    
+</game>
